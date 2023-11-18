@@ -1,0 +1,11 @@
+160
+60
+20
+chicken,100
+chicken,10
+chicken,0
+chicken,0
+rice,100
+rice,0
+rice,10
+rice,0

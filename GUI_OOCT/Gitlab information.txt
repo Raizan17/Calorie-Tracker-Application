@@ -1,0 +1,5 @@
+The link to the gitlab repository:
+
+https://gitlab.cpsc.ucalgary.ca/raizan.ahmed/demo_3_group_project/-/commits/main/
+
+The .jar file is in the out folder. 
